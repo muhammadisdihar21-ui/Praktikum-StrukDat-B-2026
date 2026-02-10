@@ -1,0 +1,7 @@
+print("Hello World")
+print(1234)
+print('aku')
+print(3+2)
+print('Nama : Muhammad Hujjatul Isdihar')
+print('Nim : 25071305930')
+print('Prodi : S1 Teknik Informatika')
