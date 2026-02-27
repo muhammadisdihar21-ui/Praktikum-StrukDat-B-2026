@@ -14,7 +14,8 @@ class MyKereta:
 kereta1 = MyKereta("Purwojaya", "Putih", 100)
 kereta2 = MyKereta("Agro", "Merah", 80)
 kereta3 = MyKereta("Taksaka", "Kuning", 70)
-kereta1.merek = "Manahan"
+kereta1.merek = "Manahan" 
+
 print(kereta1.merek)
 print(kereta1.warna)
 print(kereta1.jumlahKursi)
