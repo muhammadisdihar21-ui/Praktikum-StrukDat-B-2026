@@ -1,4 +1,4 @@
-"""#classes/objects
+#classes/objects
 #membuat class
 class MyClass:
   x = 5
@@ -180,7 +180,7 @@ p1.city = "Pekanbaru"
 print(p1.name)
 print(p1.age)
 print(p1.city)
-"""
+
 #Class Methods
 #membuat metode dengan parameter
 class Calculator:
